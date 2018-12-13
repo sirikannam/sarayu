@@ -8,7 +8,6 @@ public class ThirdClass {
 		System.out.println(" Hello");
 		System.out.println("Hi");
 		
-		
 	}
 
 }
