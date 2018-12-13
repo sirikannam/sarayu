@@ -6,6 +6,8 @@ public class ThirdClass {
 		// TODO Auto-generated method stub
 //System.out.println("welcome to Selenium Class");
 		System.out.println(" Hello");
+		System.out.println("Hi");
+		
 	}
 
 }
